@@ -11,6 +11,10 @@ and watch the pathfinding in action. This prototype was built in **Unity**, and 
 
 ---
 
+![Deliberation Promo](Promo/delib-promo.jpg)
+
+---
+
 ## Features
 
 - **A Star Pathfinding**: A* Pathfinding using a grid system to calculate the cheapest node route from point A to point B.
